@@ -1,0 +1,7 @@
+# ninja log v5
+0	274	1669103372535446766	CMakeFiles/TaxiCalculator.dir/main.c.o	330e28bfba3ca027
+274	326	1669103372589592049	TaxiCalculator	3975e6d57db64ea9
+0	30	1669104479098699735	CMakeFiles/TaxiCalculator.dir/main.c.o	330e28bfba3ca027
+30	65	1669104479134148966	TaxiCalculator	3975e6d57db64ea9
+1	30	1669104516821046660	CMakeFiles/TaxiCalculator.dir/main.c.o	330e28bfba3ca027
+30	64	1669104516855199467	TaxiCalculator	3975e6d57db64ea9

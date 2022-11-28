@@ -1,0 +1,3 @@
+/Users/nadundhananjaya/CLionProjects/telecom_bill_calculator/cmake-build-debug/CMakeFiles/telecom_bill_calculator.dir
+/Users/nadundhananjaya/CLionProjects/telecom_bill_calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nadundhananjaya/CLionProjects/telecom_bill_calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

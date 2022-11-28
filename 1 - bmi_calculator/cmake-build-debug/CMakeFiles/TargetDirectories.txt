@@ -1,0 +1,3 @@
+/Users/nadundhananjaya/CLionProjects/1 - BMI_Calculator/cmake-build-debug/CMakeFiles/BMI_Calculator.dir
+/Users/nadundhananjaya/CLionProjects/1 - BMI_Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nadundhananjaya/CLionProjects/1 - BMI_Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

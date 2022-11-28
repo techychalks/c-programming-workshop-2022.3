@@ -1,0 +1,11 @@
+# ninja log v5
+0	38	1669106710692745121	CMakeFiles/telecom_bill_calculator.dir/main.c.o	35f3595019d57d1d
+38	72	1669106710727188876	telecom_bill_calculator	d97f0ca6ada64c31
+0	29	1669106718153001737	CMakeFiles/telecom_bill_calculator.dir/main.c.o	35f3595019d57d1d
+29	61	1669106718186507638	telecom_bill_calculator	d97f0ca6ada64c31
+0	27	1669106737236121927	CMakeFiles/telecom_bill_calculator.dir/main.c.o	35f3595019d57d1d
+27	60	1669106737270385560	telecom_bill_calculator	d97f0ca6ada64c31
+1	34	1669107626266747264	CMakeFiles/telecom_bill_calculator.dir/main.c.o	35f3595019d57d1d
+34	71	1669107626304562494	telecom_bill_calculator	d97f0ca6ada64c31
+1	28	1669107689519909822	CMakeFiles/telecom_bill_calculator.dir/main.c.o	35f3595019d57d1d
+28	60	1669107689552652274	telecom_bill_calculator	d97f0ca6ada64c31
