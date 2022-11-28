@@ -1,0 +1,3 @@
+/Users/nadundhananjaya/CLionProjects/discount_calculator/cmake-build-debug/CMakeFiles/discount_calculator.dir
+/Users/nadundhananjaya/CLionProjects/discount_calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nadundhananjaya/CLionProjects/discount_calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

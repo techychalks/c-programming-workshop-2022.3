@@ -1,0 +1,3 @@
+/Users/nadundhananjaya/CLionProjects/tile_calculator/cmake-build-debug/CMakeFiles/tile_calculator.dir
+/Users/nadundhananjaya/CLionProjects/tile_calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nadundhananjaya/CLionProjects/tile_calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
