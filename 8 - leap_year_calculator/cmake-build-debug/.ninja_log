@@ -1,0 +1,9 @@
+# ninja log v5
+0	71	1669623856080671948	CMakeFiles/leap_year_calculator.dir/main.c.o	7bcc61d6b6ee1521
+71	109	1669623856119345631	leap_year_calculator	7157568240fcb9c6
+0	33	1669623868213873366	CMakeFiles/leap_year_calculator.dir/main.c.o	7bcc61d6b6ee1521
+33	69	1669623868249980375	leap_year_calculator	7157568240fcb9c6
+0	31	1669623897771208621	CMakeFiles/leap_year_calculator.dir/main.c.o	7bcc61d6b6ee1521
+31	66	1669623897806822721	leap_year_calculator	7157568240fcb9c6
+1	254	1669624458629644711	CMakeFiles/leap_year_calculator.dir/main.c.o	7bcc61d6b6ee1521
+254	304	1669624458682437465	leap_year_calculator	7157568240fcb9c6

@@ -1,0 +1,11 @@
+# ninja log v5
+0	145	1669621540191956830	CMakeFiles/exam_permission_application.dir/main.c.o	85988d0f8640ae06
+145	180	1669621540227504208	exam_permission_application	247eec7fe67c114c
+0	27	1669621564388690884	CMakeFiles/exam_permission_application.dir/main.c.o	85988d0f8640ae06
+27	63	1669621564425309544	exam_permission_application	247eec7fe67c114c
+1	161	1669621730161969522	CMakeFiles/exam_permission_application.dir/main.c.o	85988d0f8640ae06
+161	210	1669621730212749174	exam_permission_application	247eec7fe67c114c
+0	35	1669622111504306281	CMakeFiles/exam_permission_application.dir/main.c.o	85988d0f8640ae06
+35	71	1669622111541645976	exam_permission_application	247eec7fe67c114c
+1	35	1669622377314657864	CMakeFiles/exam_permission_application.dir/main.c.o	85988d0f8640ae06
+35	69	1669622377349620918	exam_permission_application	247eec7fe67c114c
