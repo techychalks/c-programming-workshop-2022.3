@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "10___Traingle_Validator",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "10___Traingle_Validator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-10___Traingle_Validator-Debug-932e9e1ac575f47497bd.json",
+					"name" : "10___Traingle_Validator",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/nadundhananjaya/Library/Mobile Documents/com~apple~Pages/Documents/TechyChalks/CodeBases.nosync/c programming/c-programming-workshop-2022.3/10 - Traingle Validator/cmake-build-debug",
+		"source" : "/Users/nadundhananjaya/Library/Mobile Documents/com~apple~Pages/Documents/TechyChalks/CodeBases.nosync/c programming/c-programming-workshop-2022.3/10 - Traingle Validator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
