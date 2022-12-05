@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "17___Prime_Number_Checker",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "17___Prime_Number_Checker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-17___Prime_Number_Checker-Debug-834f1d5683c9da719ffc.json",
+					"name" : "17___Prime_Number_Checker",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/nadundhananjaya/Library/Mobile Documents/com~apple~Pages/Documents/TechyChalks/CodeBases.nosync/c programming/c-programming-workshop-2022.3/17 - Prime Number Checker/cmake-build-debug",
+		"source" : "/Users/nadundhananjaya/Library/Mobile Documents/com~apple~Pages/Documents/TechyChalks/CodeBases.nosync/c programming/c-programming-workshop-2022.3/17 - Prime Number Checker"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

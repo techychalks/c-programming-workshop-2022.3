@@ -1,0 +1,3 @@
+/Users/nadundhananjaya/Library/Mobile Documents/com~apple~Pages/Documents/TechyChalks/CodeBases.nosync/c programming/c-programming-workshop-2022.3/16 - Perfect Number Finder/cmake-build-debug/CMakeFiles/16___Perfect_Number_Finder.dir
+/Users/nadundhananjaya/Library/Mobile Documents/com~apple~Pages/Documents/TechyChalks/CodeBases.nosync/c programming/c-programming-workshop-2022.3/16 - Perfect Number Finder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nadundhananjaya/Library/Mobile Documents/com~apple~Pages/Documents/TechyChalks/CodeBases.nosync/c programming/c-programming-workshop-2022.3/16 - Perfect Number Finder/cmake-build-debug/CMakeFiles/rebuild_cache.dir

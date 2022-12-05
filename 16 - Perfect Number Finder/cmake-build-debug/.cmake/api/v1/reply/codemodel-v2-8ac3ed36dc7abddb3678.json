@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "16___Perfect_Number_Finder",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "16___Perfect_Number_Finder::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-16___Perfect_Number_Finder-Debug-29700832065f2c0c2cd6.json",
+					"name" : "16___Perfect_Number_Finder",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/nadundhananjaya/Library/Mobile Documents/com~apple~Pages/Documents/TechyChalks/CodeBases.nosync/c programming/c-programming-workshop-2022.3/16 - Perfect Number Finder/cmake-build-debug",
+		"source" : "/Users/nadundhananjaya/Library/Mobile Documents/com~apple~Pages/Documents/TechyChalks/CodeBases.nosync/c programming/c-programming-workshop-2022.3/16 - Perfect Number Finder"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
